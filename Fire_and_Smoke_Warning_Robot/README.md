@@ -1,5 +1,5 @@
 # Fire and Smoke Warning Robot
-- Fire_detection_Robot02/Fire_detection_Robot02.ino - this file is dedicated to Arduino micro-controller program.
+- Fire_detection_Robot02/Fire_detection_Robot02.ino - this file is dedicated to Arduino micro-controller program. (incompleted version)
 - fire_01.py is program runing on Jetson Nano Develop Kit for fire and smoke detection.
 Link to my thesis for Bachelor program: https://drive.google.com/file/d/18Tr4V7sfvUr9uIZn9Vcl8qJirJf3B0sd/view?usp=drive_link
 ## Component of Robot
